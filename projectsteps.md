@@ -4,10 +4,10 @@
 <img width="563" alt=" For a complete reference, please see the online documentation at" src="https://github.com/busybrainx99/laravel_task/assets/105159710/7ef4f057-c90d-43a1-b2f9-80e325ccc262">
 
 ### sshed into the master
-<img width="540" alt="Screenshot 2024-04-20 at 20 22 54" src="https://github.com/busybrainx99/laravel_task/assets/105159710/bb42b8b6-9389-4327-80b8-62ae95f57cb4">
+<img width="549" alt="Screenshot 2024-04-20 at 22 08 44" src="https://github.com/busybrainx99/laravel_task/assets/105159710/49c30c4f-4ddb-4e34-bd64-a774c302c5b3">
 
 ### sshed into the slave
-<img width="566" alt="Screenshot 2024-04-20 at 21 08 17" src="https://github.com/busybrainx99/laravel_task/assets/105159710/73731b9d-9b09-4a71-9556-5be91c98a2e3">
+<img width="540" alt="Screenshot 2024-04-20 at 22 09 10" src="https://github.com/busybrainx99/laravel_task/assets/105159710/40734b09-9582-4183-bc84-7e043c0cda1d">
 
 ### Created the readable and reusable script on the master and ran it to make sure it the script works 
 <img width="519" alt="Get 2 httpports ubuntu comubuntu-ports mantic-updates InRelease 109 k" src="https://github.com/busybrainx99/laravel_task/assets/105159710/c8a14a5a-408a-4707-92fc-491de5484f35">
@@ -38,7 +38,7 @@
 <img width="832" alt="No services need to be restarted" src="https://github.com/busybrainx99/laravel_task/assets/105159710/9dc380c6-abde-4d7d-b82c-31671da97e5e">
 
 ### Had to also sudo visudo in my slave machine to edit my user not to need sudo password
-<img width="588" alt="Screenshot 2024-04-20 at 21 24 01" src="https://github.com/busybrainx99/laravel_task/assets/105159710/40e96d33-37f3-4ca5-9ea4-1b9d8fc13775">
+<img width="325" alt="Screenshot 2024-04-20 at 22 11 40" src="https://github.com/busybrainx99/laravel_task/assets/105159710/fd7951a7-1795-4110-9f8e-e22611fa9599">
 
 <img width="447" alt="Screenshot 2024-04-20 at 21 23 18" src="https://github.com/busybrainx99/laravel_task/assets/105159710/27c20fa6-ad8b-43d8-8f6c-76ade95cd36a">
 

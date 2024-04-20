@@ -19,9 +19,10 @@
 
 ## ANSIBLE CONFIGURATION
 ### Made my ansible directory.
-### Created my playbook, config file and hosts file. Then I moved the working script to my ansible directory.
+### Created my playbook, config file, hosts file and host_vars directory to hold my variables. Then I moved the working script to my ansible directory.
 ### Wrote my playbook and configuration file and hosts file.
-<img width="828" alt="Screenshot 2024-04-19 at 15 05 30" src="https://github.com/busybrainx99/laravel_task/assets/105159710/a3c50d6f-adc3-4c80-aa71-065189cd3424">
+<img width="887" alt="Screenshot 2024-04-20 at 22 06 00" src="https://github.com/busybrainx99/laravel_task/assets/105159710/227a6a6a-1c43-49b2-a014-6389ec488c85">
+
 
 ### Ran my ssh-keygen to create a key pair
 ![IMG_1014](https://github.com/busybrainx99/laravel_task/assets/105159710/077ed0e4-4b18-4c52-a15c-d72fb069698e)

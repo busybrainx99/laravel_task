@@ -157,7 +157,7 @@ configure_apache() {
     echo "Configuring Apache..."
     if sudo bash -c "cat > /etc/apache2/sites-available/$PROJECT_NAME.conf <<EOF
 <VirtualHost *:80>
-    ServerAdmin lamplav.local
+    ServerAdmin laravellamp.local
     DocumentRoot $DOCUMENT_ROOT
 
     <Directory $DOCUMENT_ROOT>

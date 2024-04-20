@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 
 # Variables Needed
 DB_USER="user_laravel"
